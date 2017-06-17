@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1435317260 source:c:\users\hui\documents\maze\src\node.cpp
+	"Node.h"
+
+1435317360 c:\users\hui\documents\maze\include\node.h
+
+1435319995 source:c:\users\hui\documents\maze\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<queue>
+	<Windows.h>
+	"Node.h"
+
